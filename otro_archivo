@@ -1,0 +1,5 @@
+#!/bin/bash
+as=5
+bas=10
+sum=$((a+b))
+echo $sum
