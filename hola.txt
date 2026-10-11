@@ -1,0 +1,2 @@
+#!/bin/bash
+Hola, tuve que crear otro fucking archivo de nano para que git me permita subirlo
